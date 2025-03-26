@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Asser Fouad!  
+🎓 Studying Software Industry & Multimedia at Alexandria National University  
+🌱 Currently learning **HTML, CSS, JavaScript, and Front-End Development**  
+💻 Experienced in **C++, Java, Python, and Git**  
+🎨 Passionate about **UI/UX and building interactive web experiences**  
 
-<!--
-**asserfouad/asserfouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills  
+- 🌐 **Front-End:** HTML, CSS, JavaScript (Learning React & Tailwind CSS)  
+- 🔹 **Languages:** C++, Java, Python  
+- 🛠 **Tools:** Git, VS Code, Figma  
 
-Here are some ideas to get you started:
+## 📌 Projects  
+🔹 **[Personal Portfolio](#)** - Built with HTML, CSS, JavaScript  
+🔹 **[E-Commerce Web Page](#)** - React & Tailwind CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me  
+📍 Alexandria, Egypt  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/asser-fouad-036672349/)  
